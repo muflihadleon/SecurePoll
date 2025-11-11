@@ -1,0 +1,11 @@
+**/node_modules/
+contracts/artifacts/
+contracts/cache/
+contracts/deployments/
+contracts/hardhat.log
+frontend/.next/
+frontend/.turbo/
+frontend/.vercel/
+.env
+.env.*
+.DS_Store
